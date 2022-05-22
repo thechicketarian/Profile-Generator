@@ -16,13 +16,13 @@ You are able to test this project by downloading the started code and using the 
 
 ## Question
 If you have any questions, please feel free to reach out via:\
-GitHub: https://github.com/thechicketarian/\
+GitHub: https://github.com/thechicketarian/ \
 Email: thechicketarian@gmail.com
 ## Bugs 
 At this moment the application is not 100% running as it should. Currently I am troubleshooting, adding more than 2 team members and trying to debug why my tests are not fully syncing. These are issues as of 5/21/22. I will be continuing to work on this application until everything is working correctly.\
-<img src="assets/failedtest.jpg" width="25%">
+<img src="assets/failedtest.jpg" width="50%">
 
 ## Demo 
 
 [View Demo Video](https://vimeo.com/712465243)\
-<img src="assets/teamgenerator.jpg" width="25%">
+<img src="assets/teamgenerator.jpg" width="50%">
